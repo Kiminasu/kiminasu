@@ -8,9 +8,9 @@
 - ⚡ Fato divertido: Eu amo café! ☕
 ##
 <div>
-  <a href="https://github.com/Kiminasu">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiminasu&layout=compact&theme=merko"/>  
-  <img src="https://github-readme-stats.vercel.app/api?username=kiminasu&show_icons=true&theme=merko"/>
+  <a href="https://github.com/Kiminasu">  
+  <img  width="285" height="195" src="https://github-readme-stats.vercel.app/api?username=kiminasu&show_icons=true&theme=merko"/>
+  <img width="255" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiminasu&layout=compact&theme=merko"/>
 </div>
   
 ##
