@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou aprendendo React e SQL
 - 👯 Estou procurando colaborar em projetos que utilizem as tecnologias que sei
 - 📫 Você pode entrar em contato comigo pelo meu e-mail: lucas.qzoliver@gmail.com
-- 😄 Pronomes: ele/dele 
 - ⚡ Fato divertido: Eu amo café! ☕
 <div>
     <a href="https://www.linkedin.com/in/lucas-qzoliver/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn icone" target="_blank"></a>
